@@ -486,7 +486,7 @@ export default function Portfolio() {
       </section>
 
 
-      <section id="legacy" className="py-20 md:py-10 max-w-5xl mx-auto px-6 md:px-8">
+      <section id="legacy" className="py-20 md:py-0 max-w-5xl mx-auto px-6 md:px-8">
         <div className="flex flex-col items-center mb-16 md:mb-24 text-center">
             <div className="w-[1px] h-20 md:h-32 bg-gradient-to-b from-transparent via-teal-500 to-transparent" />
             <h2 className="text-[9px] md:text-[11px] uppercase tracking-[1em] opacity-20 mt-10 font-black">Professional Legacy</h2>
